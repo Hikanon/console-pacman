@@ -1,1 +1,1 @@
-# study
+# Try to create console pacman
